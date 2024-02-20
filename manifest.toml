@@ -117,8 +117,8 @@ ram.runtime = "100M"
     arm64.url = "https://repo.jellyfin.org/releases/server/debian/versions/jellyfin-ffmpeg/6.0.1-1/jellyfin-ffmpeg6_6.0.1-1-buster_arm64.deb"
     arm64.sha256 = "b5c5fbe67e7792005d367de5d01afc05bba5b0d5f5da94c03c2930393e121af9"
 
-    amd64.url = "https://repo.jellyfin.org/releases/server/debian/versions/jellyfin-ffmpeg/6.0.1-1/jellyfin-ffmpeg6_6.0.1-1-buster_amd64.deb"
-    amd64.sha256 = "ecafeaef672b5745e7fd8f3148a751cc720e5888e86ff199a1569a772f3cabf7"
+    amd64.url = "https://repo.jellyfin.org/releases/server/debian/versions/jellyfin-ffmpeg/6.0.1-3/jellyfin-ffmpeg6_6.0.1-3-buster_amd64.deb"
+    amd64.sha256 = "a1c55b7f439f2b9a487ea90341a280467f1973fcd12607f08bcd16cf22ce307a"
     rename = "jellyfin-ffmpeg6.deb"
     format = "whatever"
     extract = false
